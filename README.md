@@ -34,12 +34,11 @@
 
 ## Download
 
-Grab `Aldown_Downloader.exe` from the [latest release].
+Grab `Aldown_Downloader.exe` from the latest release.
 
 > **ffmpeg is required** for MP3 conversion and for merging video + audio in high-resolution MP4 downloads.
 > Install it with `winget install ffmpeg`, or download it from [ffmpeg.org](https://ffmpeg.org/download.html) and add it to your PATH.
-
-Windows SmartScreen may warn about the unsigned .exe — click **More info → Run anyway**.
+Windows SmartScreen may warn about the unsigned .exe, click **More info - Run anyway**.
 
 ## Run from source
 
@@ -58,15 +57,6 @@ pyinstaller --onefile --windowed --name Aldown_Downloader --icon assets/logo.ico
 ```
 
 The executable will be in `dist/`.
-
-## Usage
-
-1. Paste a link and press **Fetch** (or Enter).
-2. Choose **MP4** or **MP3**.
-3. Pick a quality (and a bitrate for MP3).
-4. Choose a save folder and press **Download**.
-
-Files are saved as `Title [1080p].mp4` or `Title.mp3`.
 
 ## Troubleshooting
 
