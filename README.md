@@ -68,7 +68,7 @@ The executable will be in `dist/`.
 
 ## Settings
 
-The dark mode preference is stored in `~/.ytdlp_gui.json`.
+The dark mode preference is stored in `/.ytdlp_gui.json`.
 
 ## License
 
