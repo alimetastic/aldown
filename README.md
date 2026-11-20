@@ -18,7 +18,7 @@
 
 - Paste a link and fetch details: title, channel, duration, upload date, views, likes, available resolutions
 - MP4 (video): pick an exact resolution/format or the best available; video-only streams are automatically merged with the best audio
-- MP3 (audio): pick an audio stream and bitrate (64–320 kbps)
+- MP3 (audio): pick an audio stream and bitrate (64-320 kbps)
 - Codec, file size and format ID shown for every stream
 - Live progress bar with speed and ETA
 - Light and dark mode (including a dark Windows title bar), remembered between launches
