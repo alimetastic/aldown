@@ -34,7 +34,7 @@
 
 ## Download
 
-Grab `Aldown_Downloader.exe` from the [latest release](https://github.com/alimetastic/aldown/releases/latest) — no Python needed.
+Grab `Aldown_Downloader.exe` from the [latest release].
 
 > **ffmpeg is required** for MP3 conversion and for merging video + audio in high-resolution MP4 downloads.
 > Install it with `winget install ffmpeg`, or download it from [ffmpeg.org](https://ffmpeg.org/download.html) and add it to your PATH.
