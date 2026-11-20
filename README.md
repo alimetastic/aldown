@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform">
-  <img src="https://img.shields.io/github/license/USERNAME/aldown" alt="License">
+  <img src="https://img.shields.io/github/license/alimetastic/aldown" alt="License">
 </p>
 
 
