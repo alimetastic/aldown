@@ -36,7 +36,7 @@
 
 Grab `Aldown_Downloader.exe` from the latest release.
 
-> **ffmpeg is required** for MP3 conversion and for merging video + audio in high-resolution MP4 downloads.
+> **ffmpeg is required** so if you don't have it,
 > Install it with `winget install ffmpeg`, or download it from [ffmpeg.org](https://ffmpeg.org/download.html) and add it to your PATH.
 Windows SmartScreen may warn about the unsigned .exe, click **More info - Run anyway**.
 
