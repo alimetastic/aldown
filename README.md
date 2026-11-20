@@ -8,7 +8,6 @@
   A simple desktop GUI for downloading video and audio, powered by <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>.
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/USERNAME/aldown?label=download" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform">
   <img src="https://img.shields.io/github/license/USERNAME/aldown" alt="License">
