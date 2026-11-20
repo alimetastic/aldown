@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-| Light | Dark |
+| Light mode | Dark mode |
 |---|---|
 | ![Light mode](assets/light.png) | ![Dark mode](assets/dark.png) |
 
