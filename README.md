@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alimetastic/aldown/releases/latest"><img src="https://img.shields.io/github/v/release/alimetastic/aldown?label=download" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform">
   <img src="https://img.shields.io/github/license/alimetastic/aldown" alt="License">
@@ -20,8 +19,8 @@
 ## Features
 
 - Paste a link and fetch details: title, channel, duration, upload date, views, likes, available resolutions
-- **MP4 (video)**: pick an exact resolution/format or the best available; video-only streams are automatically merged with the best audio
-- **MP3 (audio)**: pick an audio stream and bitrate (64–320 kbps)
+- MP4 (video): pick an exact resolution/format or the best available; video-only streams are automatically merged with the best audio
+- MP3 (audio): pick an audio stream and bitrate (64–320 kbps)
 - Codec, file size and format ID shown for every stream
 - Live progress bar with speed and ETA
 - Light and dark mode (including a dark Windows title bar), remembered between launches
@@ -82,10 +81,6 @@ Files are saved as `Title [1080p].mp4` or `Title.mp3`.
 ## Settings
 
 The dark mode preference is stored in `~/.ytdlp_gui.json`.
-
-## Disclaimer
-
-This tool is intended for downloading content you have the right to download — your own uploads, Creative Commons or public-domain media. Respect copyright and each site's Terms of Service.
 
 ## License
 
